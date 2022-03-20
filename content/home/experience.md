@@ -22,28 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: AI Engineer
+    company: Code4Thought
+    company_url: 'https://www.code4thought.eu/'
+    company_logo: c4t
+    location: Patras, Greece
+    date_start: '2022-01-17'
     date_end: ''
-    description: |2-
+<!--     description: |2-
         Responsibilities include:
         
         * Analysing
         * Modelling
-        * Deploying
+        * Deploying -->
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Machine Learning Engineer Intern
+    company: Institute for bio-economy and agri-technology (iBO), Centre for research and technology – Hellas (CERTH)
+    company_url: 'https://ibo.certh.gr/'
+    company_logo: ibo
+    location: Volos, Greece
+    date_start: '2021-04-01'
+    date_end: '2021-06-31'
+    description: * Data preparation
+                 * Data visualization with Plotly, Matplotlib and Seaborn libraries
+                 * Applied Machine learning algorithms on various problems. More specifically, unsupervised learning (Self Organizing Maps and Gaussian Mixture Models) and supervised learning algorithms (Random Forest, SVM, Xgboost, ADA, Logistic Regression, KNN, CART).
+                 * A deep learning model (U-Net) was built in Keras Tensorflow for a semantic image segmentation task.
 
 design:
   columns: '2'
