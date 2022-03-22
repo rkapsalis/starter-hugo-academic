@@ -42,10 +42,12 @@ experience:
     location: Volos, Greece
     date_start: '2021-04-01'
     date_end: '2021-06-31'
-    description: * Data preparation
-                 * Data visualization with Plotly, Matplotlib and Seaborn libraries
-                 * Applied Machine learning algorithms on various problems. More specifically, unsupervised learning (Self Organizing Maps and Gaussian Mixture Models) and supervised learning algorithms (Random Forest, SVM, Xgboost, ADA, Logistic Regression, KNN, CART).
-                 * A deep learning model (U-Net) was built in Keras Tensorflow for a semantic image segmentation task.
+    description: |2-
+                Responsibilities include:
+                   * Data preparation
+                   * Data visualization with Plotly, Matplotlib and Seaborn libraries
+                   * Applied Machine learning algorithms on various problems. More specifically, unsupervised learning (Self Organizing Maps and Gaussian Mixture Models) and supervised learning algorithms (Random Forest, SVM, Xgboost, ADA, Logistic Regression, KNN, CART).
+                   * A deep learning model (U-Net) was built in Keras Tensorflow for a semantic image segmentation task.
 
 design:
   columns: '2'
