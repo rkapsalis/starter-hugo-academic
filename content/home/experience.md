@@ -25,21 +25,20 @@ experience:
   - title: AI Engineer
     company: Code4Thought
     company_url: 'https://www.code4thought.eu/'
-<!--     company_logo: c4t -->
+    # company_logo: c4t 
     location: Patras, Greece
     date_start: '2022-01-17'
     date_end: ''
-<!--     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying -->
+    #  description: |2-
+       #  Responsibilities include:        
+       # * Analysing
+       # * Modelling
+       # * Deploying
         
   - title: Machine Learning Engineer Intern
     company: Institute for bio-economy and agri-technology (iBO), Centre for research and technology – Hellas (CERTH)
     company_url: 'https://ibo.certh.gr/'
-<!--     company_logo: ibo -->
+    # company_logo: ibo
     location: Volos, Greece
     date_start: '2021-04-01'
     date_end: '2021-06-31'
