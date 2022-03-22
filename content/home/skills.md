@@ -27,16 +27,16 @@ feature:
   icon_pack: fab
   name: Git
 - icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: MySQL
 - icon: linux
   icon_pack: fab
   name: Unix
 - icon: LaTeX_logo
-  icon_pack: custon
+  icon_pack: custom
   name: LaTeX
 - icon: FullColorPrimary Icon
-  icon_pack: custon
+  icon_pack: custom
   name: Tensorflow
 
 # Uncomment to use emoji icons.
