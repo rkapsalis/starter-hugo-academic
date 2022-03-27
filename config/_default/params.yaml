@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: "1960s"
+  theme_night: "1960s"
   font: minimal
   font_size: L
 
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Romanos Kapsalis. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
