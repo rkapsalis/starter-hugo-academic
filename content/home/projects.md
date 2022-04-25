@@ -15,7 +15,7 @@ subtitle: ''
 content:
   # Page type to display. E.g. project.
   page_type: project
-
+  count: 5
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
@@ -35,6 +35,8 @@ content:
     tag: Software Engineering
   - name: Machine Learning
     tag: Machine Learning
+  - name: Data Structures
+    tag: Data Structures
   - name: Other
     tag: Demo
 

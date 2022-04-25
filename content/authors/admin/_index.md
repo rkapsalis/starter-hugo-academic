@@ -28,7 +28,7 @@ education:
   courses:
     - course: Integrated MSc in Computer Engineering
       institution: University of Patras
-      year: 2022
+      year: 2016-2022
 superuser: true
 highlight_name: true
 title: Romanos Kapsalis

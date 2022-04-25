@@ -1,6 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+active: false
 widget: pages
 
 # This file represents a page section.
@@ -11,6 +12,7 @@ weight: 70
 
 title: 'Recent & Upcoming Talks'
 subtitle:
+# draft: true
 
 content:
   # Page type to display. E.g. post, event, publication...

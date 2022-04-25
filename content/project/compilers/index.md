@@ -1,12 +1,12 @@
 ---
-title: Data Structures 
-summary: Interpolation search, binary search, linear search, merge sort, red black tree and digital tree, were implemented in JAVA. Large datasets were used for various observations.
+title: Compilers
+summary: Designed a compilers' lexical analyzer, parser and BNF Grammar for some-features of Tweet-JSON, using the open-source tools flex and bison.
 tags:
-- Data Structures
+- Other
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/rkapsalis/CEID-projects/tree/master/Data%20Structures
+external_link: https://github.com/rkapsalis/CEID-projects/tree/master/Compilers
 
 image:
   caption: Photo by rawpixel on Unsplash
