@@ -35,9 +35,15 @@ title: Romanos Kapsalis
 email: ""
 ---
 
-Romanos Kapsalis is an Artificial Intelligence (AI) Engineer at Code4Thought. His research interests include  machine learning, ethical AI and
-  information retrieval. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ I am an Artificial Intelligence (AI) Engineer at Code4Thought. My work includes building trustworthy and ethical AI systems. My research interests include  machine learning, ethical AI and
+  information retrieval.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+  I am passionate about building AI Systems for social good and everything that is data-related.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/rkapsalis_en.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+---
+
+> <span style="color:#EF525B">“Those who can imagine anything, can create the impossible.” </span>\
+**Alan Turing** 

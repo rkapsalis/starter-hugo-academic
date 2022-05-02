@@ -38,7 +38,7 @@ content:
   - name: Data Structures
     tag: Data Structures
   - name: Other
-    tag: Demo
+    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

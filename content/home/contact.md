@@ -25,8 +25,8 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: romanos.kapsalis@gmail.com
+  #phone: 888 888 88 88
   #address:
     #street: 450 Serra Mall
     #city: Stanford

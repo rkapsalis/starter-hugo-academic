@@ -2,7 +2,7 @@
 title: E-recruitment app
 summary: A database (MySQL) was designed and a GUI was implemented (in JAVA) for an e-recruitment app. Three types of users are supported, admin, candidate and recruiter.
 tags:
-- Databases
+- Software Engineering
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

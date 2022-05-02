@@ -25,7 +25,7 @@ experience:
   - title: AI Engineer
     company: Code4Thought
     company_url: 'https://www.code4thought.eu/'
-    # company_logo: c4t 
+    company_logo: index 
     location: Patras, Greece
     date_start: '2022-01-17'
     date_end: ''
