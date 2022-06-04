@@ -21,6 +21,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/romanos-kapsalis/
+  - icon: medium
+    icon_pack: fab
+    link: https://medium.com/@romanos.kapsalis
 organizations:
   - name: Code4Thought
     url: https://www.code4thought.eu/

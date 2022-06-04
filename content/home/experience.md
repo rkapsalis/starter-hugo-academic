@@ -43,11 +43,11 @@ experience:
     date_start: '2021-04-01'
     date_end: '2021-06-30'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
 
         * Data preparation.
         * Data visualization with Plotly, Matplotlib and Seaborn libraries.
-        * Applied Machine learning algorithms on various problems. More specifically, unsupervised learning (Self Organizing Maps and Gaussian Mixture Models) and   supervised learning algorithms (Random Forest, SVM, XGBoost, ADA, Logistic Regression, KNN, CART).
+        * Applied Machine Learning algorithms on various problems. More specifically, unsupervised learning (Self Organizing Maps and Gaussian Mixture Models) and supervised learning algorithms (Random Forest, SVM, XGBoost, ADA, Logistic Regression, KNN, CART).
         * A deep learning model (U-Net) was built in Keras Tensorflow for a semantic image segmentation task.
 
 design:
