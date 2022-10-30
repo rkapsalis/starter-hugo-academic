@@ -38,6 +38,12 @@ feature:
 - icon: FullColorPrimary Icon
   icon_pack: custom
   name: Tensorflow
+- icon: scikit-learn-logo-without-subtitle
+  icon_pack: custom
+  name: Scikit-learn
+- icon: docker
+  icon_pack: fab
+  name: Docker
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

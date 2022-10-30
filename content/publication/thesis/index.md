@@ -42,7 +42,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://nemertes.library.upatras.gr/jspui/bitstream/10889/15929/1/Thesis_Romanos_Kapsalis_1056289.pdf'
-url_code: 'https://github.com/rkapsalis/Bias_in_RecSys'
+url_code: 'https://github.com/rkapsalis/Thesis'
 url_dataset: ''
 url_poster: ''
 url_project: 'https://share.streamlit.io/rkapsalis/bias_in_recsys/elliot-master/recsys_bias.py'

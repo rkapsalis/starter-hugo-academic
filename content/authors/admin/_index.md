@@ -24,6 +24,9 @@ social:
   - icon: medium
     icon_pack: fab
     link: https://medium.com/@romanos.kapsalis
+  - icon: gitlab
+    icon_pack: fab
+    link: https://gitlab.com/rkapsalis
 organizations:
   - name: Code4Thought
     url: https://www.code4thought.eu/
