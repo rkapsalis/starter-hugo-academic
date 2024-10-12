@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {now.year} Romanos Kapsalis. This work is licensed under {license}'
+    notice: '© {year} Romanos Kapsalis. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
