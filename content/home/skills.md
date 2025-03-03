@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Skills
-subtitle: ''
+# subtitle: ''
 
 content:
   # Page type to display. E.g. project.

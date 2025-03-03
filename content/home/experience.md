@@ -43,7 +43,7 @@ experience:
         * Automated 60% of the platform’s core evaluation workflows, cutting manual assessment efforts in half and improving efficiency. 
 
       
-  - title: AI Consultant
+  - title: Jr. AI Consultant
     company: Code4Thought
     company_url: 'https://www.code4thought.eu/'
     company_logo: c4t-logo-1
@@ -60,7 +60,7 @@ experience:
         *  Provided technical guidance on AI model tuning, data preprocessing, and optimization to cross- functional teams, ensuring successful delivery within scope, timeline, and budget constraints.
         *  Delivered client presentations and training sessions to educate stakeholders on AI concepts, project progress, and outcomes. <br/><br/>
 
-        Key Achievments
+        Key Achievements
 
         *  Contributed to AI due diligence efforts for 2 major acquisitions, evaluating technical feasibility, scalability, and potential risks in AI models and data infrastructure, contributing to successful investment decisions.
         *  Conducted comprehensive analysis of 3 AI systems for a leading bank, identifying critical issues related to model performance, bias/fairness, and compliance with regulatory standards (e.g. GDPR, EU AI Act)
