@@ -22,3 +22,24 @@
 .article-style p{
 	text-align:justify;
 }
+
+.experience img{
+	width: 110px;
+}
+
+
+@media (max-width: 991.98px) {.navbar {
+	font-size: 12.17px;
+  }
+  .hero-title{
+	font-size: 1.7em;
+  }
+}
+
+.media.stream-item img {
+	max-width: 80px !important;
+  }
+
+.hero-title{
+	font-weight: bold;
+  }

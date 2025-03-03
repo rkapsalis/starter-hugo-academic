@@ -41,13 +41,14 @@ title: Romanos Kapsalis
 email: ""
 ---
 
- I am an Artificial Intelligence (AI) Engineer at Code4Thought. My work includes building trustworthy and ethical AI systems. My research interests include  machine learning, ethical AI and
-  information retrieval.
+ I am an Artificial Intelligence (AI) Engineer with over 3 years of experience spanning AI quality assurance, ML model development, and AI consulting. Proven ability to design, evaluate, and deploy machine learning solutions, ensuring fairness, explainability, and robustness. Combines technical expertise with client-facing skills from consulting roles, delivering scalable AI systems that solve complex business challenges.
+  <!-- Passionate about AI development and innovation. -->
+  My research interests include  machine learning, ethical AI and information retrieval.
 
   I am passionate about building AI Systems for social good and everything that is data-related.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/rkapsalis_en.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/rkapsalis_en_2025.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 ---
 
