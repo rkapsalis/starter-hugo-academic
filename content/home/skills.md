@@ -59,20 +59,3 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
 ---
-
-<!-- Programming languages
-Python, Java, MATLAB
-ML and DL Frameworks
-TensorFlow, Keras, PyTorch, scikit-learn
-Visualisations & Dash-boarding
-Plotly, Dash, Streamlit, seaborn, matplotlib
-MLOps Tools
-MLflow, AWS SageMaker, CI/CD Pipelines for ML (Docker, GitHub Actions)
-Statistical Analysis
-A/B testing, hypothesis testing, regression analysis
-Machine Learning & AI
-Supervised & Unsupervised Learning algorithms, Explainability (SHAP, LIME), Fairness/Bias, Adversarial Robustness, AI Risk Assessment & Compliance
-Data Science & Engineering
-Data Preprocessing (Pandas, NumPy), SQL Databases, Feature Engineering
-Software Development & Tools
-Bash, Rest APIs, Celery, Git, Agile Methodologies  -->
